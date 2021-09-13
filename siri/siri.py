@@ -20,9 +20,9 @@ async def start(client, message):
          reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('⚠️  𝒋𝒐𝒊𝒏', url='https://t.me/cinemazilla'),
+                    InlineKeyboardButton('⚠️  𝒋𝒐𝒊𝒏', url='https://t.me/cinemazilla')
                  ],[
-                    InlineKeyboardButton(OWNER, url=f"https://telegram.dog/{Config.OWNER}"),
+                    InlineKeyboardButton('⚠️  𝒋𝒐𝒊𝒏', url='https://t.me/cinemazilla'),
                     InlineKeyboardButton('yoyo', url='https://t.me/wasim')
             ]
           ]
