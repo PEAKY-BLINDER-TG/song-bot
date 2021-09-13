@@ -26,7 +26,7 @@ async def start(client, message):
          reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(BUTTON1, url='https://t.me/cinemazilla'),
+                    InlineKeyboardButton(wasim, url='https://t.me/cinemazilla'),
                  ],[
                     InlineKeyboardButton(OWNER, url=f"https://telegram.dog/{Config.OWNER}"),
                     InlineKeyboardButton(ABS, url='https://t.me/wasim')
