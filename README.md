@@ -14,3 +14,4 @@ with & without commands
 
 ## Deploy Hard Way
 No Any Hard Ways Deploy simple way 🤗🤣
+[Wasim](https://t.me/PEAKY_blinder_tg)
